@@ -5,6 +5,9 @@
 # Package Installation (Python 3.10)
 Required libraries ara available in requirements.txt. Install with ```pip install -requirements.txt```
 
+# Notebook
+Notebook available [here](https://github.com/dsprabowo/agriaku/blob/main/Diko%20Sakti%20Prabowo%20-%20AgriAku%20Data%20Scientist%20Test.ipynb)
+
 # Modelling Result
 ## 1. Random Forest
 ![Confusion Matrix](https://github.com/dsprabowo/agriaku/blob/main/cm_rf.png)
