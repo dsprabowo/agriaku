@@ -1,0 +1,9 @@
+ipykernel
+matplotlib==3.7
+numpy
+optuna
+pandas
+scikit-learn
+seaborn
+statsmodels
+tensorflow
